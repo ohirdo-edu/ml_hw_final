@@ -1,0 +1,6 @@
+.env/
+tmp/
+.idea/
+.DS_Store
+__pycache__/
+.coverage
